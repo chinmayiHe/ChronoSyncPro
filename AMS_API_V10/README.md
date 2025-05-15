@@ -31,18 +31,6 @@ This project provides the backend API for an Attendance Management System (AMS).
 *   **Email Notifications:**
     *   Integrated email service (likely for OTP, notifications).
 
-## Technology Stack
-
-*   **Language:** Java 17
-*   **Framework:** Spring Boot 3.2.2
-    *   Spring Web (REST APIs)
-    *   Spring Data JPA (Database interaction)
-    *   Spring Security (Authentication & Authorization)
-    *   Spring Mail (Email sending)
-*   **Database:** Supports MySQL and PostgreSQL (based on dependencies)
-*   **Authentication:** JWT (jjwt library)
-*   **Build Tool:** Maven
-*   **Other:** Lombok (Reduces boilerplate code)
 
 ## Project Structure
 
