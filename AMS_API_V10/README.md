@@ -4,13 +4,7 @@ This project provides the backend API for an Attendance Management System (AMS).
 
 ## Features
 
-*   **User Authentication & Authorization:**
-    *   Secure login using email and password.
-    *   JWT (JSON Web Token) based authentication for stateless sessions.
-    *   Refresh token mechanism for extended sessions.
-    *   Role-based access control (Admin, Instructor, Student - inferred).
-    *   OTP (One-Time Password) validation for certain operations (e.g., password recovery).
-    *   Password change functionality.
+
 *   **Core Data Management:**
     *   Manage Departments (CRUD).
     *   Manage Courses (CRUD).
