@@ -28,10 +28,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
     *   Remove student groups (via `core/remove-list` - inferred usage).
 *   **Overview:** Displays counts/summary information on the admin dashboard (`dashboard/admin/admin-dashboard`).
 
-### Instructor Dashboard (`dashboard/instructor`)
-*   **Attendance Management:** Mark and manage student attendance (`core/assign-attendance`).
-*   **Information:** View assigned courses/batches and personal details (inferred from dashboard structure and `core/instructor-details`).
-*   **Overview:** Displays relevant information on the instructor dashboard (`dashboard/instructor/instructor-dashboard`).
 
 ### Student Dashboard (`dashboard/student`)
 *   **Information:** View personal details and attendance records (inferred from dashboard structure).
