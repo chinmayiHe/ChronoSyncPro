@@ -21,10 +21,7 @@ This project provides the backend API for an Attendance Management System (AMS).
     *   Assign Instructors to Courses.
     *   Assign Instructors to Batches.
     *   Assign Batches to Students during registration.
-*   **Attendance Tracking:**
-    *   Record student attendance.
-    *   Retrieve attendance records by student or multiple students.
-    *   Delete attendance records by student.
+
 *   **Student Promotion & Removal:**
     *   Functionality to promote student groups.
     *   Functionality to remove student groups.
